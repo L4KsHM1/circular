@@ -218,7 +218,7 @@ a {
     padding: 1rem;
   }
   .creative > img {
-    width: 15rem;
+    width: 100%;
     height: auto;
   }
   .creative-text {
