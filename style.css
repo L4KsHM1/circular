@@ -176,7 +176,7 @@ a {
   .navbar {
     display: none;
   }
-  .banner {
+  /* .banner {
     flex-direction: column;
     justify-content: space-between;
   }
@@ -194,7 +194,6 @@ a {
   .digital-text {
     display: flex;
     flex-direction: column;
-    /* margin: 2rem; */
     padding: 0.5rem;
     align-items: center;
   }
@@ -247,5 +246,5 @@ a {
   }
   .sections p {
     background-color: red;
-  }
+  } */
 }
