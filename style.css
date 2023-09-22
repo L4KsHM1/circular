@@ -190,7 +190,7 @@ a {
   .digital-img {
     display: flex;
     flex-direction: column;
-    margin: 0rem 1.5rem 0.5rem 1.5rem;
+    margin: 0rem 1.5rem 0.5rem 2rem;
     /* margin-left: 0 1.5rem 0.5rem 1.5rem; */
     background-color: none;
   }
