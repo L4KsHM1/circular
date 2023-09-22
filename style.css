@@ -225,7 +225,7 @@ a {
     gap: 0.5rem;
   }
   .image {
-    width: 10rem;
+    /* width: 10rem; */
     height: 100%;
   }
   .creative-text > p {
