@@ -224,6 +224,10 @@ a {
   .creative-text {
     gap: 0.5rem;
   }
+  .image {
+    width: 15rem;
+    height: auto;
+  }
   .creative-text > p {
     font-size: 3rem;
     margin: 1rem;
