@@ -173,10 +173,10 @@ a {
   color: white;
 }
 @media (max-width: 769px) {
-  .navbar {
-    display: none;
+  body {
+    background-color: red;
   }
-  /* .banner {
+  .banner {
     flex-direction: column;
     justify-content: space-between;
   }
@@ -244,7 +244,4 @@ a {
   footer {
     display: none;
   }
-  .sections p {
-    background-color: red;
-  } */
 }
