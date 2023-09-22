@@ -228,10 +228,10 @@ a {
     margin: 1rem;
     padding: 1rem;
   }
-  /* .marketing-footer {
+  .marketing-footer {
     flex-direction: column;
     gap: 1.5rem;
-  } */
+  }
   .image img {
     width: 100%;
     padding: 1rem;
@@ -244,5 +244,8 @@ a {
   }
   footer {
     display: none;
+  }
+  .sections p {
+    background-color: red;
   }
 }
