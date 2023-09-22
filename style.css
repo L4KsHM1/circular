@@ -183,11 +183,14 @@ a {
   .banner p {
     margin: 1rem;
   }
+  .digital {
+    align-items: center;
+  }
   .digital-img {
     display: flex;
     flex-direction: column;
-    /* margin: 1rem 4.5rem 1rem 4.5rem; */
-    margin-left: 0 1.5rem 0.5rem 1.5rem;
+    /* margin: 0rem 1.5rem .5rem 1.5rem; */
+    /* margin-left: 0 1.5rem 0.5rem 1.5rem; */
     background-color: none;
   }
   .digital-text {
