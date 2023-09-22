@@ -223,6 +223,9 @@ a {
     font-size: 3rem;
     margin: 1rem;
   }
+  .creative-text div {
+    margin-right: 2rem;
+  }
   .marketing {
     padding: 1rem;
   }
