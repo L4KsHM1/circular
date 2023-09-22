@@ -185,6 +185,7 @@ a {
   }
   .digital {
     align-items: center;
+    justify-content: center;
   }
   .digital-img {
     display: flex;
