@@ -202,7 +202,7 @@ a {
   }
   .digital-text h1 {
     font-size: 3rem;
-    margin-left: 1rem;
+    /* margin-left: 1rem; */
     text-align: center;
   }
   .digital-text > p {
