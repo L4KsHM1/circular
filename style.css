@@ -205,7 +205,12 @@ a {
     margin-right: 3rem;
   }
   .digital-text > p {
-    margin-left: 4rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+  .market-text {
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
   .creative {
     flex-direction: column;
@@ -218,14 +223,13 @@ a {
   }
   .creative-text {
     gap: 0.5rem;
-    text-align: center;
   }
   .creative-text > p {
     font-size: 3rem;
     margin: 1rem;
   }
   .creative-text div {
-    margin: 2rem;
+    margin-right: 1rem;
   }
   .marketing {
     padding: 1rem;
