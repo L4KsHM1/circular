@@ -227,6 +227,8 @@ a {
   .image {
     width: 10rem;
     height: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
   .creative-text > p {
     font-size: 3rem;
