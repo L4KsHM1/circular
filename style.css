@@ -256,7 +256,20 @@ a {
   .content-sec h1 {
     font-size: 2rem;
   }
-  footer {
+  .sections h1 {
+    font-size: 1.5rem;
+  }
+  .sections > svg {
     display: none;
+  }
+  footer {
+    flex-direction: column;
+    /* align-items: center; */
+  }
+  .discover {
+    align-items: center;
+  }
+  .sub {
+    gap: 1rem;
   }
 }
