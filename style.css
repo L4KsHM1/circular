@@ -191,7 +191,7 @@ a {
   .digital-img {
     display: flex;
     flex-direction: column;
-    margin: 0rem 1.5rem 0.5rem 2rem;
+    align-items: center;
     background-color: none;
   }
   .digital-text {
@@ -256,11 +256,15 @@ a {
   .content-sec h1 {
     font-size: 2rem;
   }
+  .sections {
+    flex-direction: column;
+    margin: 0;
+  }
   .sections h1 {
     font-size: 1.5rem;
   }
   .sections > svg {
-    display: none;
+    width: 2rem;
   }
   footer {
     flex-direction: column;
