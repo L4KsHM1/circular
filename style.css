@@ -149,6 +149,10 @@ nav {
   font-size: 50px;
 }
 
+.sections:nth-of-type(even) svg {
+  transform: revert;
+}
+
 footer {
   background-color: black;
   color: white;
